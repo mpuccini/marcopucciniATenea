@@ -14,7 +14,7 @@ enableEmoji = true
 #  logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Marco Puccini"
-    url = "https://github.com/ojroques/hugo-researcher"
+    url = "https://github.com/mpuccini/marcopucciniATenea"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "950px"
