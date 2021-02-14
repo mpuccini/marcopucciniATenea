@@ -7,12 +7,12 @@ draft: true
 # Contacts
 
 Dr. Marco Puccini  
-{{< figure class="avatar" src="/avatar.jpg" >}}
+{{< figure class="avatar" src=“/imgs/avatar.jpg” >}}  
 
-ENEA  
-TERIN - Energy Technologies and Renewables Department  
-ICT - Information Communication Technologies Division  
-HPC - High Performance Computing Lab  
+[ENEA](https://www.enea.it)  
+[TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  
+[ICT](https://ict.enea.it/) - Information Communication Technologies Division  
+[HPC](https://ict.enea.it/laboratorio-infrastrutture-per-il-calcolo-scientifico-ict-hpc/) - High Performance Computing Lab  
 
 
 mail: marco.puccini@enea.it  
@@ -22,6 +22,6 @@ repositories:
 	- gitlab@enea  
 	- [github](https://github.com/mpuccini?tab=repositories)  
 GPG:  
-	- key: [marcopuccini.pub](/marcopuccini.pub)  
+	- key: [marcopuccini.pub](/docs/marcopuccini.pub)  
 	- fingerprint: 592A 21A1 64EB C026 6F85 4B88 083B 9D40 B84D 6BEC
 											
