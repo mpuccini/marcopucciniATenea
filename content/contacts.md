@@ -7,7 +7,7 @@ draft: true
 # Contacts
 
 Dr. Marco Puccini  
-{{< figure class="avatar" src=“/imgs/avatar.jpg” >}}  
+{{< figure class="avatar" src=“imgs/avatar.jpg” >}}  
 
 [ENEA](https://www.enea.it)  
 [TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  

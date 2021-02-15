@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on marcopuccini@enea</title>
+    <link>https://www.afs.enea.it/puccini/</link>
+    <description>Recent content in About on marcopuccini@enea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 08:59:17 +0100</lastBuildDate><atom:link href="https://www.afs.enea.it/puccini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://www.afs.enea.it/puccini/publications/</link>
+      <pubDate>Sun, 14 Feb 2021 10:06:04 +0100</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/publications/</guid>
+      <description>2019 [1] M.Puccini, S. Migliori, F. Iannone, and M. Mongelli. 2019. &amp;ldquo;Survey of the Modern Database Technologies.&amp;rdquo; RT/2019/13/ENEA. ENEA.
+[2] IMEKO, ed. 2019. Proceedings of the 2019 Imeko Tc-4 International Conference on Metrology for Archaeology and Cultural Heritage.
+[3] M., Mongelli, Chellini G., Migliori S., Perozziello A., Pierattini S., Puccini M., and Cosma A. 2019. &amp;ldquo;Photogrammetry and Structured Light: Comparison and Integration of Techniques in Survey of the Corsini Throne at Corsini Gallery in Rome.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.afs.enea.it/puccini/projects/</link>
+      <pubDate>Sun, 14 Feb 2021 10:05:44 +0100</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/</guid>
+      <description>Projects 2020 M.I.A. Fashion (currently involved) M.I.A. Fashion (link in italian), Models and Solutions for Artificial Intelligence in the Luxury Fashion sector, is a project that aims to design and develop an ICT platform to support business of an importat luxury fashion company. The final objective of the project is to create a hybrid digital ecosystem, identifying the right technological trade-off that allows to take full advantage of the opportunities presented by the technical-scientific innovation related to artificial intelligence systems aiming to:</description>
+    </item>
+    
+    <item>
+      <title>Contats</title>
+      <link>https://www.afs.enea.it/puccini/contacts/</link>
+      <pubDate>Sun, 14 Feb 2021 09:27:18 +0100</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/contacts/</guid>
+      <description>Contacts Dr. Marco Puccini
+ ENEA
+TERIN - Energy Technologies and Renewables Department
+ICT - Information Communication Technologies Division
+HPC - High Performance Computing Lab
+mail: marco.puccini@enea.it
+site: www.afs.enea.it/puccini/
+address: Lungotevere Thaon di Revel, 76 00196 ROMA Italia, first floor, room 104
+repositories:
+- gitlab@enea
+- github
+GPG:
+- key: marcopuccini.pub
+- fingerprint: 592A 21A1 64EB C026 6F85 4B88 083B 9D40 B84D 6BEC</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.afs.enea.it/puccini/about/</link>
+      <pubDate>Sun, 14 Feb 2021 08:59:17 +0100</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/about/</guid>
+      <description>Облетев Землю в корабле-спутнике, я увидел, как прекрасна наша планета. Люди, будем хранить и преумножать эту красоту, а не разрушать её!
+ Y.A.Gagarin   A (very) short presentation I&amp;rsquo;ve a MSc in Physics. Currently i&amp;rsquo;m involved in projects in the area of Heritage Sciences, in particular on 3D technologies (photogrammetry, SfM, rendering) and Big Data infrastructures (NoSQL DBs, distribuited platforms, IoT) for Cultural Heritage. My scientific interests are also:</description>
+    </item>
+    
+  </channel>
+</rss>
