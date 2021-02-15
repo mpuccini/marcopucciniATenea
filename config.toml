@@ -8,7 +8,7 @@ enableEmoji = true
 [params]
   [params.profile]
     author = "Marco Puccini"
-    description = "A simple monospaced resume theme for Hugo."
+    description = "A simple w."
     favicon = "/favicon.ico"  # path to a .ico to use as favicon
     enable = true
     avatar = "imgs/avatar.jpg"
@@ -19,8 +19,8 @@ enableEmoji = true
     # #    docker = "XXX"  # https://hub.docker.com/u/XXX
     email = "marco.puccini@enea.it"  # mailto:XXX@mail.com
   [params.footer]
-    text = "By Marco Puccini"
-    url = "https://github.com/mpuccini/marcopucciniATenea"
+    text = "Built with Hugo theme/Researcher"
+    url = "https://themes.gohugo.io/hugo-researcher/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "950px"
