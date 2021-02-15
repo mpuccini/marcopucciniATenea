@@ -6,11 +6,8 @@ draft: true
 
 
 Dr. Marco Puccini  
-<<<<<<< HEAD
-{{< figure class="avatar" src=“imgs/avatar.jpg” >}}  
-=======
-![](/imgs/avatar.jpg)
->>>>>>> tmp
+![](/imgs/avatar.jpg?raw=true)
+{{< figure class="avatar" src=“/imgs/avatar.jpg” >}}  
 
 [ENEA](https://www.enea.it)  
 [TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  

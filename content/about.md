@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 date: 2021-02-14T08:59:17+01:00
 draft: true
 ---
@@ -19,4 +19,4 @@ I've a MSc in **Physics**. Currently i'm involved in projects in the area of **H
 I'm a Linux and free/open source software enthusiast.  
 I'm a (amateur) winemaker, i like to play guitar, bass and trumpet. I love music.  
 
-For more (serious) details, please take a look to the CV, to the *Projects* section and/or contact me.
+For more (serious) details, please take a look at the resume, to the *projects* section and/or contact me.

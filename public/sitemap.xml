@@ -1,30 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.afs.enea.it/puccini/publications/</loc>
-    <lastmod>2021-02-14T10:06:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.afs.enea.it/puccini/projects/</loc>
-    <lastmod>2021-02-14T10:05:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.afs.enea.it/puccini/contacts/</loc>
-    <lastmod>2021-02-14T09:27:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.afs.enea.it/puccini/about/</loc>
-    <lastmod>2021-02-14T08:59:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.afs.enea.it/puccini/</loc>
-    <lastmod>2021-02-14T08:59:17+01:00</lastmod>
-  </url>
-  
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/publications/</loc>
+            <lastmod>2021-02-14T10:06:04+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/bkup/</loc>
+            <lastmod>2021-02-14T10:05:44+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/contacts/</loc>
+            <lastmod>2021-02-14T09:27:18+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/about/</loc>
+            <lastmod>2021-02-14T08:59:17+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/</loc>
+            <lastmod>2021-02-14T08:59:17+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/projects/miafashion/</loc>
+            <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/projects/</loc>
+            <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/projects/covid19datalake/</loc>
+            <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/projects/ecodigit/</loc>
+            <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/projects/eneamongodb/</loc>
+            <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.afs.enea.it/puccini/tags/</loc>
+        </url>
+        
+    
 </urlset>
