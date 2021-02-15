@@ -1,9 +1,9 @@
 ---
-title: "Projects"
+title: "projects"
 date: 2021-02-14T10:05:44+01:00
 draft: true
 ---
-# Projects
+
 ## 2020
 ### M.I.A. Fashion (currently involved)
 M.I.A. Fashion ([link in italian](https://ict.enea.it/mia/)), Models and Solutions for Artificial Intelligence in the Luxury Fashion sector, is a project that aims to design and develop an **ICT platform** to support business of an importat luxury fashion company. The final objective of the project is to create a hybrid digital ecosystem, identifying the right technological trade-off that allows to take full advantage of the opportunities presented by the technical-scientific innovation related to **artificial intelligence** systems aiming to:
