@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic-web on marcopuccini@enea</title>
+    <link>https://www.afs.enea.it/puccini/tags/semantic-web/</link>
+    <description>Recent content in semantic-web on marcopuccini@enea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.afs.enea.it/puccini/tags/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>openiacs</title>
+      <link>https://www.afs.enea.it/puccini/projects/openiacs/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/openiacs/</guid>
+      <description>OpenIACS </description>
+    </item>
+    
+    <item>
+      <title>ecodigit</title>
+      <link>https://www.afs.enea.it/puccini/projects/ecodigit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/ecodigit/</guid>
+      <description>Ecodigit Ecodigit was a project funded by the Regione Lazio for the DTC (District of Technologies and Culture) Centre of Excellence. It aims to project and develop the middleware component of the DTC digital ecosystem for cultural heritage. In particular ENEA was invloved to build up the Proof of Concept. It started in the November of 2018 and ended in the January of 2020. The main task was to build up a software component to make interoperable and dynamic the DTC graph of knowledge with advanced visualizations services.</description>
+    </item>
+    
+  </channel>
+</rss>

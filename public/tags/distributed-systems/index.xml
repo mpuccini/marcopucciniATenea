@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributed-systems on marcopuccini@enea</title>
+    <link>https://www.afs.enea.it/puccini/tags/distributed-systems/</link>
+    <description>Recent content in distributed-systems on marcopuccini@enea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.afs.enea.it/puccini/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rafael</title>
+      <link>https://www.afs.enea.it/puccini/projects/rafael/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/rafael/</guid>
+      <description>Rafael </description>
+    </item>
+    
+    <item>
+      <title>enea-ceph</title>
+      <link>https://www.afs.enea.it/puccini/projects/ceph/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/ceph/</guid>
+      <description>Ceph </description>
+    </item>
+    
+    <item>
+      <title>covid19-datalake</title>
+      <link>https://www.afs.enea.it/puccini/projects/covid19datalake/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/covid19datalake/</guid>
+      <description>Covid19 datalake Due to the Covid19 emergency, a huge number of projects and interest on related data has grown up. I&amp;rsquo;m involved on building up a datalake of a wide range of data linked to the Covid19 pandemic. I started to collect both data on Italy and World cases spread from the official italian Protezione Civile data repository and the global Johns Hopkins repository(https://github.com/CSSEGISandData/COVID-19). Moreover i started a tweets collection on selected hashtags to build up a huge set of documents (tweets) to allow possile future sentiment analysis.</description>
+    </item>
+    
+    <item>
+      <title>enea-mongodb</title>
+      <link>https://www.afs.enea.it/puccini/projects/eneamongodb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afs.enea.it/puccini/projects/eneamongodb/</guid>
+      <description>ENEA mongoDB Among the big field of noSQL databases, mongoDB is the most widely used open source technology of his type, especially for Big Data storage and mnagment. ENEA start a collaboration with me to evaluate such technology and to build up a cluster installation of the Community Edition. Due to the common CAP theorem tradeoffs, mongoDB has a complex architecture to guarantee Consistency and (of course) Partition failures, with an high ratio of Accessibility too.</description>
+    </item>
+    
+  </channel>
+</rss>

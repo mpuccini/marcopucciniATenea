@@ -1,13 +1,12 @@
 ---
-title: "contats"
+title: "contacts"
 date: 2021-02-14T09:27:18+01:00
 draft: true
 ---
 
 
 Dr. Marco Puccini  
-![](/imgs/avatar.jpg?raw=true)
-{{< figure class="avatar" src=“/imgs/avatar.jpg” >}}  
+![](imgs/profile.jpg?raw=true)
 
 [ENEA](https://www.enea.it)  
 [TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  
