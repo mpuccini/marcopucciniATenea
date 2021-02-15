@@ -1,1 +1,1 @@
-/home/marco/data/hugo/marcopucciniATenea/content/about.md
+/home/marco/data/hugo/marcopucciniATenea/content/about/index.md
