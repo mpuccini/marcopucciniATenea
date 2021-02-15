@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "publications"
 date: 2021-02-14T10:06:04+01:00
 draft: true
 ---
