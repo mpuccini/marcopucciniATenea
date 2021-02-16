@@ -6,7 +6,7 @@ draft: true
 
 
 Dr. Marco Puccini  
-![](imgs/profile.jpg?raw=true)
+<img src="/puccini/imgs/profile.jpg" alt="me" style="float:right;width:128px;height:128px;" title="Here i am..." />
 
 [ENEA](https://www.enea.it)  
 [TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  
@@ -21,6 +21,6 @@ repositories:
 	- gitlab@enea  
 	- [github](https://github.com/mpuccini?tab=repositories)  
 GPG:  
-	- key: [marcopuccini.pub](/docs/marcopuccini.pub)  
+	- key: [marcopuccini.pub](/puccini/docs/marcopuccini.pub)  
 	- fingerprint: 592A 21A1 64EB C026 6F85 4B88 083B 9D40 B84D 6BEC
 											
