@@ -5,7 +5,8 @@ draft: true
 ---
 
 
-Dr. Marco Puccini  
+**Dr. Marco Puccini**
+
 <img src="/puccini/imgs/profile.jpg" alt="me" style="float:right;width:128px;height:128px;" title="Here i am..." />
 
 [ENEA](https://www.enea.it)  
