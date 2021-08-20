@@ -1,6 +1,6 @@
 ---
 title: "mia-fashion"
-date: 2020-04-01
+date: 2020
 draft: true
 tags : ["artificial-intelligence", "deep-learning", "big-data", "social-network"]
 ---

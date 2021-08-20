@@ -32,7 +32,7 @@ enableEmoji = true
     use = "katex"  # "mathjax" or "katex"
   [params.syntax]
     use = "hljs"  # builtin: "prismjs", "hljs". "none" means Chroma
-    theme = "dracula"
+    theme = "nord"
     darkTheme = "xcode-dark"  # apply this theme in dark mode
 
 [permalinks]

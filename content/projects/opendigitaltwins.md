@@ -1,6 +1,6 @@
 ---
 title: "opendigitaltwins"
-date: 2021-08-20T14:00:42+02:00
+date: 2021
 draft: true
 tags: ["microservices", "cultural-heritage"]
 ---

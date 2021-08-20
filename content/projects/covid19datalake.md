@@ -1,6 +1,6 @@
 ---
 title: "covid19-datalake"
-date: 2020-03-28
+date: 2020
 draft: true
 tags: ["big-data", "distributed-systems"]
 ---
