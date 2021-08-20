@@ -9,4 +9,4 @@ tags: ["microservices", "cultural-heritage"]
 
 The ENEA Open DigitalTwins is a digital ecosystem to manage etherogeneus data from the Cultural Heritage and Heritage Science. The main characteristic is his software architecture, based on microservices. This way it is possible to have complete trasportability and allow to grow with needs. For example, with new services.
 
-![](imgs/ENEADevArch.png?raw=true)
+![](/puccini/imgs/eodt1.png?raw=true)

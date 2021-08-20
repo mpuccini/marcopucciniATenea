@@ -9,9 +9,9 @@ enableEmoji = true
   [params.profile]
     author = "Marco Puccini"
     description = "My web site on ENEAGRID."
-    favicon = "/favicon.ico"  # path to a .ico to use as favicon
+    favicon = "/puccini/favicon.ico"  # path to a .ico to use as favicon
     enable = true
-    avatar = "/imgs/avatar.jpg"
+    avatar = "/puccini/imgs/avatar.jpg"
     name = "Marco Puccini"
     # #    bio = "XXX"  # support markdown syntax
     #     twitter = "XXX"  # https://twitter.com/XXX
