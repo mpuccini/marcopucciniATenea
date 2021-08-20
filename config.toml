@@ -1,4 +1,4 @@
-baseURL = "https://www.afs.enea.it/puccini/"
+baseURL = "https://www.afs.enea.it/puccini"
 languageCode = "en-us"
 title = "marcopuccini@enea"
 theme = "researcher"
@@ -8,10 +8,10 @@ enableEmoji = true
 [params]
   [params.profile]
     author = "Marco Puccini"
-    description = "A simple w."
+    description = "My web site on ENEAGRID."
     favicon = "/favicon.ico"  # path to a .ico to use as favicon
     enable = true
-    avatar = "imgs/avatar.jpg"
+    avatar = "/imgs/avatar.jpg"
     name = "Marco Puccini"
     # #    bio = "XXX"  # support markdown syntax
     #     twitter = "XXX"  # https://twitter.com/XXX
@@ -19,7 +19,7 @@ enableEmoji = true
     # #    docker = "XXX"  # https://hub.docker.com/u/XXX
     email = "marco.puccini@enea.it"  # mailto:XXX@mail.com
   [params.footer]
-    text = "Built with Hugo theme/Researcher"
+    text = "Built with Hugo theme Researcher"
     url = "https://themes.gohugo.io/hugo-researcher/"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
@@ -37,7 +37,6 @@ enableEmoji = true
 
 [permalinks]
   "/" = "/:filename"
-  "/imgs" = "/imgs/:filename"
 
 [menu]
   [[menu.main]]

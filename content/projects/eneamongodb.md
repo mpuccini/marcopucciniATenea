@@ -22,7 +22,7 @@ To allow data redundancy, the shards and the config server must run on ($2n+1$) 
 * Arbiter: partecipate on electing new Primary in case of failures, but does not hold data.
 																	
 The ENEA cluster is builded on 4 physical machine with this logical sheme:  
-![](/imgs/sharded-cluster-arch.png?raw=true)
+![](imgs/sharded-cluster-arch.png?raw=true)
 
 where there are 3 hosts that serves 1 Shard and 1 Config Server, and 1 hosts for the Router according to this schema for hostname roles (showed in a *yaml* way):
 ```yaml
