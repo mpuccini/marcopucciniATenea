@@ -1,6 +1,6 @@
 ---
 title: "enea-mongodb"
-date: 2019
+date: 2019-01-01
 draft: true
 tags: ["big-data", "distributed-systems"]
 ---

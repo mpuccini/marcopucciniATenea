@@ -1,6 +1,6 @@
 ---
 title: "ecodigit"
-date: 2019
+date: 2020-03-28
 draft: true
 tags: ["cultural-heritage", "ict", "semantic-web"]
 ---
