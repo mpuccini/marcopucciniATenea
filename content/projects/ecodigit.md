@@ -12,7 +12,7 @@ tags: ["cultural-heritage", "ict", "semantic-web"]
 * *Assembler*: takes all the 3D object info from the previous component and build up the viewer page.
 									
 In the Figure below is showed the software architecture of how those components works
-![3DHOP Ecodigit extension architecture.](imgs/3dhop_ecodigit.png?raw=true)
+![](/puccini/imgs/3dhop_ecodigit.png?raw=true)
 Figure 1 - 3DHOP Ecodigit extension architecture.  
 
 While the javascript librearies works client-side to renderize and visualize the model, all this stuff works server-side. Due to the two separated component the gathere could be rewritten to interoperate with other kind of database or, better, extend the software with different gatherer. One for each kind database. Whereas the assembler component is able to build the page with the proper activated functions related to the model characteristics. The prototype is reacheable (until 2025) at this [link](http://150.146.207.67/prototipo/).
