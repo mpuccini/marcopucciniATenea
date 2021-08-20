@@ -5,14 +5,9 @@ draft: true
 ---
 
 
-<<<<<<< HEAD
-Dr. Marco Puccini  
-![](/imgs/profile.jpg?raw=true)
-=======
 **Dr. Marco Puccini**
 
 <img src="/puccini/imgs/profile.jpg" alt="me" style="float:right;width:128px;height:128px;" title="Here i am..." />
->>>>>>> 456253ea8c3836cf91b46b2ac458b2757b835e66
 
 [ENEA](https://www.enea.it)  
 [TERIN](http://energia.enea.it/) - Energy Technologies and Renewables Department  
