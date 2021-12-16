@@ -1,4 +1,4 @@
-baseURL = "https://www.afs.enea.it/puccini/"
+baseURL = "https://www.afs.enea.it/puccini"
 languageCode = "en-us"
 title = "marcopuccini@enea"
 theme = "researcher"
@@ -8,7 +8,7 @@ enableEmoji = true
 [params]
   [params.profile]
     author = "Marco Puccini"
-    description = "A simple w."
+    description = "My web site on ENEAGRID."
     favicon = "/puccini/favicon.ico"  # path to a .ico to use as favicon
     enable = true
     avatar = "/puccini/imgs/avatar.jpg"
@@ -32,12 +32,11 @@ enableEmoji = true
     use = "katex"  # "mathjax" or "katex"
   [params.syntax]
     use = "hljs"  # builtin: "prismjs", "hljs". "none" means Chroma
-    theme = "dracula"
+    theme = "nord"
     darkTheme = "xcode-dark"  # apply this theme in dark mode
 
 [permalinks]
   "/" = "/:filename"
-  "/imgs" = "/imgs/:filename"
 
 [menu]
   [[menu.main]]
