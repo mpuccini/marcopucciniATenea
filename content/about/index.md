@@ -21,3 +21,4 @@ I'm a Linux and free/open source software enthusiast.
 I'm a (amateur) winemaker, i like to play guitar, bass and trumpet. I love music.  
 
 For more (serious) details, please take a look at the resume, to the *projects* section and/or contact me.
+![](/puccini/imgs/glider_conway.gif?raw=true)
