@@ -1,5 +1,5 @@
 ---
-title: "DTECH"
+title: "dtech"
 date: 2022-01-01
 draft: true
 tags: ["cultural-heritage"]
