@@ -5,6 +5,8 @@ draft: true
 tags: ["cultural-heritage"]
 ---
 
+### DTECH
+
 On January 2022 DTECH project started. DTECH (Digital Twin Environment for Cultural Heritage) is a winning project in the Tecnological District for Cultural Heritage of the italian Lazio Region [DTC](https://dtclazio.it/) (Distretto Tecnologico Beni e Attività Culturali), with a parnership of ENEA, University Roma 3 Department of Architecture and Department of Geography and the IT private company [Overit](https://www.overit.it/).
 
 The main goal of the project is to develop an integrated system to manage Digital Twins object such as point clouds, 3D reconstructions, HBIM, AR and VR models and GIS data in a interoperable web based platform. Such platform wants to be an innovative tool addressed to cultural assets manager (museums, institutions, ...) that integrates a data management environment with a set of advanced viewer to store, organize, enrich, and (eventually) share digital replicas of physical cultural assets.
