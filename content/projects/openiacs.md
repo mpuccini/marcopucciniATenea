@@ -7,7 +7,11 @@ tags: ["semantic-web"]
 
 ### OpenIACS
 
+#### LOD endpoint
+
 OpenIACS is a project that aims to build up an Open LOD platform based on HPC capabilities for Integrated Administration of Common Agriculture Policy. Fice countries are in the project: Greece, Italy, Lithuania, Poland and Spain. ENEA is involved due for his *HPC* resources and ICT know-how. The first task was to provide to the project, an available LOD triplestore endpoint. I need to build up a Virtuoso instance on a dedicated VM on the VMWare ENEA cluster. To do this job i wrote a [fabric](https://www.fabfile.org/) script to have a reproducible result. This script is stored in dedicated [repository](https://gitlab.brindisi.enea.it/marco.puccini/installvirtuoso) on the ENEA gitlab instance.
+
+#### Containers optimization
 
 The complex architecture of the platform consists on different components. Among this are the ETL pipelines to convert shape files into LOD tiples and upload that on Virtuoso. Those ETL pipelines are been developed by the Polish partner of the project, the Data Analytics and Semantics Department in Poznan Supercomputing and Networking Center. My work was to optimize the containerization of such software, providing a lighter and faster image building file both for Docker and Singularity. The most useful optimization cames with using a *multi-stage building* approach. In the following the results, where the are highlighted the multi-stage building implementation.
 
@@ -110,3 +114,77 @@ Stage: final
   exec "$@"
 
 ```
+
+##### Security and scalability improvmentes
+
+The great advantage of the container approach is to be easily transportable and scalable. That mainly due to its *statelesses*, or to be independent from configurations and immutable. Thanks to this, you can run the same container images multiple times, with different configurations, without the needs to *step inside* it and change nothing. So, to allow this, all the mutable stuff needs to be *outside* the container image. One another important work carried out is to re-factor the code organization to fill the principle descibed above. Following that logic, all the pipeline source code are being organized inside a `src` folder like for the configurations, inside `cfg` folder. Other general configurations values are passed inside the container as environmental variable, collected in a `.env` file. Moreover, to manage properly how to run containers, both for Docker and Singularity, with stuff like mounting external volumes, passing variables, a shell script is being developed.
+
+```bash
+#! /bin/bash
+# author: Marco Puccini (marco.puccini@enea.it)
+
+echo "Check for logs and temp folders"
+for dir in logs temp
+do
+	if [ ! -d ${dir} ]
+	then
+		mkdir ${dir}
+		echo "Create ${dir} folder"
+	else
+		echo "Folder ${dir} already exists"
+	fi
+done
+echo "############################################################"
+
+if [ "$2" == "--docker" ] || [ "$2" == "-d" ]
+then
+	echo "Run ${1} in docker container"
+	echo "############################################################"
+	sudo docker run -ti \
+		-v /home/virtuoso/pipelines/DATA:/DATA \
+		-v $PWD/cfg:/src/cfg \
+		-v $PWD/logs:/src/logs \
+		-v $PWD/temp:/src/temp \
+		pipeline-etl \
+		"${1}"
+elif [ "$2" == "--singularity" ] || [ "$2" == "-s" ]
+then
+	echo "Run ${1} in singularity container"
+	echo "############################################################"
+	singularity run \
+		-B /home/virtuoso/pipelines/DATA/:/DATA \
+		-B cfg/:/src/cfg \
+		-B logs:/src/logs \
+		-B temp/:/src/temp \
+		pipeline-etl.sif \
+		"${1}"
+elif [ -z "$2" ]
+then
+	echo "Missing parameter"
+	echo "Usage: runContainer.sh <pipeline> [--docker|--singularity]"
+	echo "############################################################"
+else
+	echo "Unknown option: ${2}"
+	echo "Usage: runContainer.sh <pipeline> [--docker|--singularity]"
+	echo "############################################################"
+fi
+```
+
+This is particularly useful because this pipelines needs to be runned in a **HPC environment**, like IBM LSF in ENEA or SLURM for other project partners, mainly designed to work with batch processing. With the script above you just need to gain execution rights to the script
+
+```bash
+chmod +x runContainer.sh
+```
+and run it, passing as arguments the proper pipeline and a flag to choose Docker or Singularity/Apptainer.
+
+```bash
+chmod +x runContainer.sh
+./runContainer.sh <pipeline> [--docker|--singularity]
+```
+or
+```bash
+./runContainer.sh <pipeline> [-d|-s]
+```
+The `pipeline` is defined in a file according to the documentation provided from Poznan developers. You can define different pipelines with different files. Some examples are collected in the `pipelines` folder.
+
+The complete source code is accessible at the [repository](https://gitlab.brindisi.enea.it/marco.puccini/openiacs-pipelines).
