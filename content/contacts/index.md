@@ -17,11 +17,11 @@ draft: true
 
 mail: marco.puccini@enea.it  
 site: www.afs.enea.it/puccini/  
-address:
-&nbsp;&nbsp;- [Lungotevere Thaon di Revel, 76 00196](https://maps.google.com/?q=Lungotevere%20Thaon%20di%20Revel%2C%2076%2000196%20ROMA%20Italia)
-&nbsp;&nbsp;- ROMA Italia
-&nbsp;&nbsp;- first floor
-&nbsp;&nbsp;- room 104
+address:  
+&nbsp;&nbsp;- [Lungotevere Thaon di Revel, 76 00196](https://maps.google.com/?q=Lungotevere%20Thaon%20di%20Revel%2C%2076%2000196%20ROMA%20Italia)  
+&nbsp;&nbsp;- ROMA Italia  
+&nbsp;&nbsp;- first floor  
+&nbsp;&nbsp;- room 104  
 repositories:  
 &nbsp;&nbsp;- gitlab@enea  
 &nbsp;&nbsp;- [github](https://github.com/mpuccini?tab=repositories)  
