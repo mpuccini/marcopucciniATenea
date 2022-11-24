@@ -5,6 +5,7 @@ draft: true
 ---
 
 ## 2022
+[15] Claudio Ronchetti, Marco Puccini, Sergio Ferlito, Simone Giusepponi, Filippo Palombi, Francesco Buonocore, and Massimo Celino. “Machine learning techniques for data analysis in materials science”. In: 2022 AEIT International Annual Conference (AEIT). Oct. 2022, pp. 1–6. DOI: [10.23919/AEIT56783.2022.9951839](https://doi.org/10.23919/AEIT56783.2022.9951839)
 [14] Puccini Marco, Camassa Antonio, Mongelli Marialuisa, Pierattini Samuele, Migliori Silvio, Canciani Marco, Spadafora Giovanna, Saccone Mauro. "Integrated Survey and 3D Processing on Enea CRESCO Platform: The Case Study of San Nicola in Carcere in Rome". In: Journal of Physics: Conference Series (2022), Volume 2204, number 1. DOI: [10.1088/1742-6596/2204/1/012101](https://doi.org/10.1088/1742-6596/2204/1/012101).
 
 [13] Luca Indovina; Raffaele Scafè; Marco Puccini; Rosanna Pellegrini; Roberto Pani. "A new generation of scintillation detectors with identification of events undergoing multiple interactions for gamma-ray imaging and spectroscopy". In: Applied Radiation and Isotopes (2022), Volume 184, 110189. DOI: [10.1016/j.apradiso.2022.110189 ](https://doi.org/10.1016/j.apradiso.2022.110189 ).
