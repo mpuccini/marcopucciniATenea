@@ -16,7 +16,7 @@ enableEmoji = true
     # #    bio = "XXX"  # support markdown syntax
     #     twitter = "XXX"  # https://twitter.com/XXX
     github = "https://github.com/mpuccini"  # https://github.com/XXX
-    # #    docker = "XXX"  # https://hub.docker.com/u/XXX
+    docker = "https://hub.docker.com/u/mpuccini"  # https://hub.docker.com/u/XXX
     email = "marco.puccini@enea.it"  # mailto:XXX@mail.com
   [params.footer]
     text = "Built with Hugo theme Researcher"
