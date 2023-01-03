@@ -2,6 +2,7 @@ baseURL = "https://www.afs.enea.it/puccini"
 languageCode = "en-us"
 title = "marcopuccini@enea"
 theme = "researcher"
+disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 
 
@@ -16,11 +17,11 @@ enableEmoji = true
     # #    bio = "XXX"  # support markdown syntax
     #     twitter = "XXX"  # https://twitter.com/XXX
     github = "https://github.com/mpuccini"  # https://github.com/XXX
-    # #    docker = "XXX"  # https://hub.docker.com/u/XXX
+    docker = "https://hub.docker.com/u/mpuccini"  # https://hub.docker.com/u/XXX
     email = "marco.puccini@enea.it"  # mailto:XXX@mail.com
   [params.footer]
     text = "Built with Hugo theme Researcher"
-    url = "https://themes.gohugo.io/hugo-researcher/"
+    url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "950px"
@@ -69,11 +70,6 @@ enableEmoji = true
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
-
-[taxonomies]
-  tag = "tags"
-
-
 
 [markup]
   [markup.highlight]

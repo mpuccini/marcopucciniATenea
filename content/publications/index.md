@@ -19,7 +19,7 @@ draft: true
 
 ## 2020
 
-[9] Marco Canciani, Mauro Saccone, Giovanna Spadafora, Silvio Migliori, Marialuisa Mongelli, Marco Puccini, Andrea Quintiliani, Arturo Gallia, Catia Masetti. Modelli 3D e dati GIS: una loro integrazione per lo studio e la valorizzazione dei beni culturali. *Archeomatica*, V. 11, N. 2, pp. 18-23 (2020) edited by Mediageo. ISSN: 2384-9428. DOI: [10.48258/arc.v11i2.1749/](https://doi.org/10.48258/arc.v11i2.1749/).
+[9] Marco Canciani, Mauro Saccone, Giovanna Spadafora, Silvio Migliori, Marialuisa Mongelli, Marco Puccini, Andrea Quintiliani, Arturo Gallia, Catia Masetti. Modelli 3D e dati GIS: una loro integrazione per lo studio e la valorizzazione dei beni culturali. *Archeomatica*, V. 11, N. 2, pp. 18-23 (2020) edited by Mediageo. ISSN: 2384-9428. DOI: [10.48258/arc.v11i2.1749](https://doi.org/10.48258/arc.v11i2.1749).
 
 [8] Luigi Asprino, Antonio Budano, Marco Canciani, Luisa Carbone, Miguel Ceriani, Lu-dovica  Marinucci,  Massimo  Mecella,  Federico  Meschini,  Marialuisa  Mongelli,  An-drea  Giovanni  Nuzzolese,  Valentina  Presutti,  Marco  Puccini,  and  Mauro  Saccone.“EcoDigit-Ecosistema Digitale per la fruizione e la valorizzazione dei beni e delle at-tività culturali del Lazio”. In:Atti del IX Convegno Annuale AIUCD. La svolta inevitabile:sfide e prospettive per l’Informatica Umanistica.Ed. by Cristina Marras, Marco Pas-sarotti, Greta Franzini, and Eleonora Litta. Quaderni di Umanistica Digitale. Milano:Università Cattolica del Sacro Cuore, Jan. 2020. URL: [http://amsacta.unibo.it/6316/](http://amsacta.unibo.it/6316/).
 
